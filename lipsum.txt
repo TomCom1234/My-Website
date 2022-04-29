@@ -5,4 +5,8 @@ ipsum primis in faucibus. Aenean elementum ante ac tellus sagittis blandit. Null
 sollicitudin et a leo. 
 Donec bibendum quam nec nisi auctor, non dictum orci congue. Aenean nec tempor sapien. Vestibulum consequat diam tristique, viverra massa at, vehicula orci.
 
+<<<<<<< HEAD
 Update 2
+=======
+Update Confict
+>>>>>>> 75c9bd6bf3c09d2e95bf2e43a215804c66c98265
